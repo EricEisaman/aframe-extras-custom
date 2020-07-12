@@ -1,0 +1,16 @@
+{
+  "name": "aframe-extras-custom",
+  "version": "0.0.12",
+  "description": "Customized version of aframe-extras for the CS1 Game Engine.",
+  "main": "latest/aframe-extras-custom.js",
+  "homepage": "https://cs1.netlify.app/",
+  "repository": {
+    "url": "https://glitch.com/edit/#!/aframe-extras-custom?path=dist%2Flatest%2FREADME.md%3A1%3A0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "awesome",
+    "maintainer",
+    "10x engineer"
+  ]
+}
